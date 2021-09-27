@@ -1,0 +1,14 @@
+https://intothedata.com/02.scholar_category/statistics/correlation/
+피어슨 상관계수
+https://blog.naver.com/PostView.naver?blogId=mykepzzang&logNo=220838462884&redirect=Dlog&widgetTypeCall=true&directAccess=false
+https://nittaku.tistory.com/456
+https://hsm-edu.tistory.com/17
+
+같은형으로 데이터 바꾸기
+https://developer-ping9.tistory.com/111
+
+null값 채우기
+https://dining-developer.tistory.com/19
+
+사실 여기에 다 있다. 그냥 이걸쓰자
+https://www.kaggle.com/ash316/eda-to-prediction-dietanic
