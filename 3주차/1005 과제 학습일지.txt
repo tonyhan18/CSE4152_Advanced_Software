@@ -1,0 +1,30 @@
+MSE 함수 구현하기
+https://m.blog.naver.com/tommybee/221750403141
+
+PCA reconstruction -> inverse_transform이다.
+
+inverse_transform 함수 원본
+https://github.com/scikit-learn/scikit-learn/blob/844b4be24/sklearn/preprocessing/_data.py#L510
+
+PCA 구하기
+https://tobigs.gitbook.io/tobigs/data-analysis/undefined-2/python-1-3
+이게짱임
+https://excelsior-cjh.tistory.com/167
+
+PCA 원리
+https://angeloyeo.github.io/2019/07/27/PCA.html
+
+구현, 정리
+https://tobigs.gitbook.io/tobigs/data-analysis/undefined-2/python-1-3
+
+---
+
+PCA reconstruction 의 공식은 매우 간단하다.
+이게 직교행렬이기 때문에 그냥 eigen Vector 의 T를 곱하면된다.
+
+문제는 차원이 바뀌어서 eigen Vector가 그냥 곱해지지 않는다. reshape를 해도 3차원 데이터때문에 걸린다.
+
+이를 해결하기 위해 그냥 데이터들의 한쪽 차원을 1로 바꾸었다. 그게 eigen vec이던 pca 로 만들어진 행렬이든
+
+reconstruction
+https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com

@@ -1,0 +1,20 @@
+# TODO 1
+plt.legned() : plot의 범례를 표시, 위치 지정
+https://codetorial.net/matplotlib/set_legend.html
+
+plt.scatter() : pca한 다음 scatter 사용하기
+https://onlytojay.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%80%EC%9E%A5-%EC%A7%A7%EC%9D%80-pca-%EC%BD%94%EB%93%9C-667f13ff3e47
+3개의 데이터가지고 한거
+https://m.blog.naver.com/pjc1349/221996214527
+정확한 방법
+https://ichi.pro/ko/python-eul-sayonghan-chawon-chugso-gibeob-267647983853148
+새로운 항을 만들어주기 위해서는 우선 DataFrame화 해야하는듯 학다
+df의 replace 함수를 사용하면 특정 단어를 다른 형태로 바꿀 수 있다. 자료형 상관없이
+색상종류
+https://wooono.tistory.com/180
+
+# TODO2
+PCA 함수 구현
+https://ai-hyu.com/python-pca-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/
+COV 더 쉽게 구하기
+https://people.duke.edu/~ccc14/sta-663-2016/09_PCA.html
