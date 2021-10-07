@@ -175,4 +175,9 @@ week1_practice/
 week1_practice1/
 week1_practice2/
 week1_practice3/
+.vs/
+/.vs
+x64/
+/x64
 *.zip
+*.pdf
