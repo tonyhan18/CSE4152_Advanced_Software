@@ -177,6 +177,7 @@ week1_practice2/
 week1_practice3/
 .vs/
 /.vs
+/.vscode
 x64/
 /x64
 *.zip
